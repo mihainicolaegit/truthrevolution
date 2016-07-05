@@ -1,4 +1,0 @@
-#!/bin/bash
-
-source $OPENSHIFT_HOMEDIR/python/virtenv/bin/activate
-python ${OPENSHIFT_REPO_DIR}/wsgi/scripts/florin_negrutiu-gandul.info.py
